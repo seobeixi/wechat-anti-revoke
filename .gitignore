@@ -1,0 +1,16 @@
+# 运行产物（含本机路径、密钥候选等敏感信息）
+patch_log.txt
+patch_state.json
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
